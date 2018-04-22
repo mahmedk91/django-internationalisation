@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+
+# Translation files
+*.mo
+
+# Virtual environment files
+env
+
+# PyCharm workspace files
+.idea
+
+# Database
+db.sqlite3
