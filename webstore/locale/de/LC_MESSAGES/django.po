@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: International Online Store (Backend)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-23 18:45+0200\n"
+"PO-Revision-Date: 2018-04-23 19:01+0200\n"
+"Last-Translator: Mohd Ahmed Khan\n"
+"Language-Team: German (Germany)\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 46405\n"
+"X-Loco-Lookup: id\n"
+"X-Loco-Api-Version: 1.0.19 20180411-1"
+
+#: products/apps.py:6 loco:5ade0fffa39ff354398b4567
+#| msgid "Products"
+msgid "app.name.products"
+msgstr "Produkte"
+
+#: products/templates/home.html:25 loco:5ade0fffa39ff354398b4571
+#| msgid "Add to Cart"
+msgid "homepage.add_to_cart"
+msgstr "In den Warenkorb legen"
+
+#: products/templates/home.html:14 loco:5ade0fffa39ff354398b4570
+#| msgid "International Online Store"
+msgid "homepage.heading"
+msgstr "Internationaler Online Shop"
+
+#: products/templates/home.html:5 loco:5ade0fffa39ff354398b456f
+#| msgid "International Online Store"
+msgid "homepage.title"
+msgstr "Internationaler Online Shop"
+
+#: products/models.py:14 loco:5ade0fffa39ff354398b456d
+#| msgid "Product"
+msgid "model.product"
+msgstr "Produkt"
+
+#: products/models.py:9 products/templates/home.html:24
+#: loco:5ade0fffa39ff354398b456b
+#| msgid "Delivery until"
+msgid "model.product.delivery_until"
+msgstr "Lieferung bis"
+
+#: products/models.py:7 loco:5ade0fffa39ff354398b4569
+#| msgid "Description"
+msgid "model.product.description"
+msgstr "Beschreibung"
+
+#: products/models.py:10 loco:5ade0fffa39ff354398b456c
+#| msgid "Product Image"
+msgid "model.product.image"
+msgstr "Produktbild"
+
+#: products/models.py:6 loco:5ade0fffa39ff354398b4568
+#| msgid "Name"
+msgid "model.product.name"
+msgstr "Name"
+
+#: products/models.py:8 products/templates/home.html:23
+#: loco:5ade0fffa39ff354398b456a
+#| msgid "Price"
+msgid "model.product.price"
+msgstr "Preis"
+
+#: products/models.py:15 loco:5ade0fffa39ff354398b456e
+#| msgid "Products"
+msgid "model.product.s"
+msgstr "Produkte"
+
+#: products/urls.py:9 loco:5ade0fffa39ff354398b4572
+#| msgid "products/"
+msgid "product.url.products"
+msgstr "produkte/"
